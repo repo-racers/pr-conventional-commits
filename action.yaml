@@ -1,4 +1,4 @@
-name: 'Conventional Commit In Pull Requests'
+name: 'Conventional Commit In Pull Requests - Repo Racers Pro Support'
 description: 'Check that the PR title contains a valid task type and (optionally) a task number, and label the PR based on the task type'
 inputs:
 

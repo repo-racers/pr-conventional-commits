@@ -1,5 +1,5 @@
 <a href="https://reporacers.com/" taarget="_blank">
-  <img src="https://github.com/repo-racers/.github/blob/main/profile/repo-racers.png" alt="Repo Raacers" width="600px"/>
+  <img src="https://github.com/repo-racers/.github/blob/main/profile/repo-racers.png" alt="Repo Racers" width="600px"/>
 </a>
 
 This repository is included in our Open Source Pro Support service which offers an efficient solution for managing popular GitHub Actions dependencies with ease:
